@@ -52,7 +52,7 @@ jQuery(document).ready(function () {
 		jQuery("<option />", {
 		 "selected": "selected",
 		 "value"   : "",
-		 "text"    : "Go to..."
+		 "text"    : "Menu..."
 		}).appendTo("#menu-wrapper select");
 		
 		// Populate dropdown with menu items
